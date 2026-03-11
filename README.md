@@ -1,6 +1,6 @@
 # GeoVision System
 
-GeoVision is a system designed for capturing infrastructure images, analyzing them using AI (Gemini), and visualizing the results on a web dashboard with mapping and alert creation capabilities.
+GeoVision is a system designed for capturing infrastructure images, analyzing them using AI (Groq), and visualizing the results on a web dashboard with mapping and alert creation capabilities.
 
 ## System Architecture
 
